@@ -1,0 +1,24 @@
+{
+  "name": "video_capture",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bluebird": "^3.3.5",
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "fluent-ffmpeg": "^2.1.0",
+    "fluent-ffmpeg-extended": "^1.5.2",
+    "formidable": "^1.0.17",
+    "fs-extra": "^0.30.0",
+    "morgan": "^1.7.0",
+    "npmlog": "^2.0.3",
+    "request": "^2.72.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
